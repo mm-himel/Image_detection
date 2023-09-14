@@ -1,0 +1,10 @@
+test: test/images
+train: train/images
+val: valid/images
+
+names:
+  0 : alam
+  1 : nadim
+  2 : nayem
+  3 : rakib
+  4 : saidul
